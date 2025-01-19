@@ -6,6 +6,7 @@ Welcome to the SpringCMS Starter — a ready-to-use Laravel project with SpringC
 
 1. Clone or download this repository.
 1. Install dependencies by running: `composer install`
+2. Create a `.env` file by Copying the `.env.example` file & run `php artisan key:generate`
 1. Run the project and navigate to `/install` in your browser to complete the installation process.
 
 ## Resources
